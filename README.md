@@ -1,3 +1,1 @@
-# Bruce
-Student
-这是一个好的开始
+This is Readme.
